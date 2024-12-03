@@ -43,3 +43,5 @@ app.*.map.json
 # Firebase configuration (Add these manually to avoid accidental commits)
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
+
+.env
